@@ -8,4 +8,7 @@ https://numpy.org/doc/stable/reference/arrays.ndarray.html#constructing-arrays<b
 
 **dtype:**(data type object) <br/>
 dtype documentation: 
-https://numpy.org/doc/stable/reference/arrays.dtypes.html#arrays-dtypes
+https://numpy.org/doc/stable/reference/arrays.dtypes.html#arrays-dtypes <br/>
+
+**numpy.ndarray :**
+https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html#numpy.ndarray <br/>
